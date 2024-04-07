@@ -1,0 +1,48 @@
+.image {
+    width: 16.875rem;
+    height: 15.625rem;
+    border-radius: 0.25rem;
+    background: var(--Secondary, #F5F5F5);
+}
+
+item_name {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+}
+
+.price {
+    color: var(--Secondary-2, #DB4444);
+    font-family: Poppins;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1.5rem;
+    /* 150% */
+}
+
+.reduced_price {
+    color: var(--Button, #000);
+    font-family: Poppins;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5rem;
+    /* 150% */
+    text-decoration-line: strikethrough;
+    opacity: 0.5;
+}
+
+.rating {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+}
+
+.Star {
+    width: 1.25rem;
+    height: 1.25rem;
+    fill: #FFAD33;
+}

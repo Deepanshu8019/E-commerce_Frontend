@@ -1,0 +1,35 @@
+{
+    "Sale": [
+        {   "id":1,
+            "name": "HAVIT HV-G92 Gamepad",
+            "requce_price":"120",
+            "price": 160,
+            "rating": "88",
+            "image":"https://res.cloudinary.com/djkzdkb27/image/upload/v1710249503/Frame_570_etljjz.png"
+        },
+        {
+            "id":2,
+            "name": "AK-900 Wired Keyboard",
+            "requce_price":"960",
+            "price": "1160",
+            "rating": "75",
+            "image":"https://res.cloudinary.com/djkzdkb27/image/upload/v1710249503/Frame_572_pjix8z.png"
+        },
+        {
+            "id":3,
+            "name": "IPS LCD Gaming Monitor",
+            "requce_price":"370",
+            "price": "400",
+            "rating": "99",
+            "image":"https://res.cloudinary.com/djkzdkb27/image/upload/v1710249503/Frame_571png_mstwb9.png"
+        },
+        {
+            "id":4,
+            "name": "S-Series Comfort Chair ",
+            "requce_price":"375",
+            "price": "400",
+            "rating": "86",
+            "image":"https://res.cloudinary.com/djkzdkb27/image/upload/v1710249503/Frame_573_fxutqt.png"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+.view_button {
+    display: inline-flex;
+    padding: 1rem 3rem;
+    justify-content: center;
+    align-items: center;
+    gap: 0.625rem;
+    border-radius: 0.25rem;
+    background: var(--Button2, #DB4444);
+    transition: all ease .6s;
+}
+
+.view_button:hover{
+    transform: scale(0.9);
+}
